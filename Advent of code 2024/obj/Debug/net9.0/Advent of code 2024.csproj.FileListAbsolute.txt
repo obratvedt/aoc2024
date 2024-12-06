@@ -1,0 +1,19 @@
+/Users/oyvindbratvedt/RiderProjects/Advent of code 2024/bin/Debug/net9.0/Advent of code 2024
+/Users/oyvindbratvedt/RiderProjects/Advent of code 2024/bin/Debug/net9.0/Advent of code 2024.deps.json
+/Users/oyvindbratvedt/RiderProjects/Advent of code 2024/bin/Debug/net9.0/Advent of code 2024.runtimeconfig.json
+/Users/oyvindbratvedt/RiderProjects/Advent of code 2024/bin/Debug/net9.0/Advent of code 2024.dll
+/Users/oyvindbratvedt/RiderProjects/Advent of code 2024/bin/Debug/net9.0/Advent of code 2024.pdb
+/Users/oyvindbratvedt/RiderProjects/Advent of code 2024/obj/Debug/net9.0/Advent of code 2024.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oyvindbratvedt/RiderProjects/Advent of code 2024/obj/Debug/net9.0/Advent of code 2024.AssemblyInfoInputs.cache
+/Users/oyvindbratvedt/RiderProjects/Advent of code 2024/obj/Debug/net9.0/Advent of code 2024.AssemblyInfo.cs
+/Users/oyvindbratvedt/RiderProjects/Advent of code 2024/obj/Debug/net9.0/Advent of code 2024.csproj.CoreCompileInputs.cache
+/Users/oyvindbratvedt/RiderProjects/Advent of code 2024/obj/Debug/net9.0/Advent of code 2024.dll
+/Users/oyvindbratvedt/RiderProjects/Advent of code 2024/obj/Debug/net9.0/refint/Advent of code 2024.dll
+/Users/oyvindbratvedt/RiderProjects/Advent of code 2024/obj/Debug/net9.0/Advent of code 2024.pdb
+/Users/oyvindbratvedt/RiderProjects/Advent of code 2024/obj/Debug/net9.0/Advent of code 2024.genruntimeconfig.cache
+/Users/oyvindbratvedt/RiderProjects/Advent of code 2024/obj/Debug/net9.0/ref/Advent of code 2024.dll
+/Users/oyvindbratvedt/RiderProjects/Advent of code 2024/bin/Debug/net9.0/1/input.txt
+/Users/oyvindbratvedt/RiderProjects/Advent of code 2024/bin/Debug/net9.0/2/input.txt
+/Users/oyvindbratvedt/RiderProjects/Advent of code 2024/bin/Debug/net9.0/2/testinput.txt
+/Users/oyvindbratvedt/RiderProjects/Advent of code 2024/bin/Debug/net9.0/3/input.txt
+/Users/oyvindbratvedt/RiderProjects/Advent of code 2024/bin/Debug/net9.0/4/input.txt
